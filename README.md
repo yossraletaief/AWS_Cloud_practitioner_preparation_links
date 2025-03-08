@@ -29,11 +29,16 @@ This document provides a collection of valuable resources to help you prepare fo
 - **Repository:** [AWS Certified Cloud Practitioner Practice Exam](https://github.com/kananinirav/AWS-Certified-Cloud-Practitioner-Notes/blob/master/practice-exam/practice-exam-1.md)
 - **Description:** A collection of practice questions to test your knowledge before taking the exam.
 
+### 5️⃣ **Digital Cloud Training Free Practice Exam**
+- **Platform:** Digital Cloud Training
+- **Exam Link:** [Free AWS Certified Cloud Practitioner Practice Exam](https://learn.digitalcloud.training/path-player?courseid=free-aws-certified-cloud-practitioner-practice-exam)
+- **Description:** A free practice exam to help reinforce key concepts and exam readiness.
+
 ---
 
 ## 📅 Scheduling the Exam
 
-### 5️⃣ **Register for the AWS Certification Exam**
+### 6️⃣ **Register for the AWS Certification Exam**
 - **Official AWS Certification Portal:** [Schedule Your Exam](https://cp.certmetrics.com/amazon/en/home/dashboard)
 - **Description:** Register for and schedule your AWS Cloud Practitioner exam through the AWS Certification portal.
 
